@@ -1,6 +1,6 @@
 # WARING
 
-## 本项目为[V2Ray-heroku](https://github.com/bclswl0827/v2ray-heroku)项目的二次上传！
+** 本项目为[V2Ray-heroku](https://github.com/bclswl0827/v2ray-heroku)项目的二次上传！　** 
 
 ## 部署
 
@@ -20,7 +20,7 @@
 | `AID` | `64` | 为进一步防止被探测所设额外 ID，即 AlterID，范围为 0 至 65535 |
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
-##
+
 
 ## 出于安全考量，请务必使用CDN,以实现 V2Ray Websocket + TLS！**
 
