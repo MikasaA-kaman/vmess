@@ -21,7 +21,7 @@
 | `WSPATH` | `/` | WebSocket 所使用的 HTTP 协议路径 |
 
 
-## 出于安全考量，请务必使用CDN,以实现 V2Ray Websocket + TLS！
+** 出于安全考量，请务必使用CDN,以实现 V2Ray Websocket + TLS！**
 
 ** 接入 CloudFlare **
 
