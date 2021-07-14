@@ -1,6 +1,6 @@
 # WARING
 
-** 本项目为[V2Ray-heroku](https://github.com/bclswl0827/v2ray-heroku)项目的二次上传！　** 
+**本项目为[V2Ray-heroku](https://github.com/bclswl0827/v2ray-heroku)项目的二次上传！** 
 
 ## 部署
 
@@ -24,7 +24,7 @@
 
 ## 出于安全考量，请务必使用CDN,以实现 V2Ray Websocket + TLS！**
 
-** 接入 CloudFlare **
+**接入 CloudFlare**
 
 以下两种方式均可以将应用接入 CloudFlare，从而在一定程度上提升速度。
 
