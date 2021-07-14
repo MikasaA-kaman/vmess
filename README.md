@@ -22,7 +22,7 @@
 
 
 
-## 出于安全考量，请务必使用CDN,以实现 V2Ray Websocket + TLS！**
+## 出于安全考量，请务必使用CDN,以实现 V2Ray Websocket + TLS！
 
 **接入 CloudFlare**
 
